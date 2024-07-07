@@ -1,7 +1,7 @@
 # Bio
 
 ## Education
-- Cornell University | PhD in Chemistry (_May 2025_)
-- University of Illinois Urbana-Champaign | BS in Chemical Engineering (_May 2018_)
+- PhD in Chemistry, Cornell University (_May 2025_)
+- BS in Chemical Engineering, University of Illinois Urbana-Champaign (_May 2018_)
 
 ## Projects
