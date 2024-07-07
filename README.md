@@ -1,6 +1,6 @@
 # Bio
 
 # Education
-## Cornell University
-## PhD in Chemistry
+Cornell University
+PhD in Chemistry
 ##
