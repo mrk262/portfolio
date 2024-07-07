@@ -1,2 +1,2 @@
 # PhD candidate
-[headshot](/assets/img/professional-headshot.png)
+![headshot](/assets/img/professional-headshot.png)
